@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 04 12:43:01 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\user\\Downloads\\Bornomala\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

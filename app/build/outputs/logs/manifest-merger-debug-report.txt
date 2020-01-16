@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e2f37202d5595c76ed14d03d22bc720a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ed832f9dcdab851f3ff569a66e507bc4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.smarteist:autoimageslider:1.3.2] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\autoimageslider-1.3.2.aar\82b8c0ed273ef598dff6f95e965577b2\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\69b770ade525a88f10c9b31c6d3157d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\71c7c757ac2a597096500ee4fc3fcb0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7d278c23e7663f799b2b35ca0fab62fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f08a9e3dee74635932464763d4dcafdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0e00a670342be930057478a1e712befe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\521446632c27773cf74f76ab0ae9d356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8717ff0497734f3c30150621b17ee2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dfee9430a8aea6a55803ba7c8649915d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\bf7b97a6ddb73b4d111fa5cfec5c4d01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\360674e0313f3838295a8808652c13cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\767c4c69a7b71bcae19efc854c5af541\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1221af683839a610f162a7cff98b97d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\167563a08d438cc70f1dbc89f2288ef5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ce566c23eb58db54e04ea3a09eecb00\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ffdea14be7822fec489d124a16f3b225\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e73e09a477771f9c64f8e030d5f01237\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8603f2bd1c2f8414ee8566089a23c1ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\826d6f8cee93e1e161212e9104241d4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\826e7c01e3ab45397996ac40ec7497dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d1b764f2bc7a2c8346facaf8729da07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c2d3ce5007f2e98c89ef4efd914e42bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a055c81fc85a7ae25b126a9410b2c019\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\80adcc448c3919ef4b04265b8450f59f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\14b2eeaa27de161a5b641fe96546a9f8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ed832f9dcdab851f3ff569a66e507bc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ed832f9dcdab851f3ff569a66e507bc4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.smarteist:autoimageslider:1.3.2] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\autoimageslider-1.3.2.aar\82b8c0ed273ef598dff6f95e965577b2\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.smarteist:autoimageslider:1.3.2] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\autoimageslider-1.3.2.aar\82b8c0ed273ef598dff6f95e965577b2\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ce566c23eb58db54e04ea3a09eecb00\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ce566c23eb58db54e04ea3a09eecb00\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:11:9-65
+activity#world.mishkat.bornomala.MainActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:16:27-74
+activity#world.mishkat.bornomala.Main3Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:19:19-48
+activity#world.mishkat.bornomala.Main4Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:20:19-48
+activity#world.mishkat.bornomala.twoActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:21:19-46
+activity#world.mishkat.bornomala.threeActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:22:19-48
+activity#world.mishkat.bornomala.fourActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:23:19-47
+activity#world.mishkat.bornomala.fiveActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:24:19-47
+activity#world.mishkat.bornomala.sixActivity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:25:19-46
+activity#world.mishkat.bornomala.Main2Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:26:19-48
+activity#world.mishkat.bornomala.C2Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:27:19-45
+activity#world.mishkat.bornomala.C3Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:28:19-45
+activity#world.mishkat.bornomala.c4Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:29:19-45
+activity#world.mishkat.bornomala.c5Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:30:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:30:19-45
+activity#world.mishkat.bornomala.c6Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:31:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:31:19-45
+activity#world.mishkat.bornomala.c7Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:32:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:32:19-45
+activity#world.mishkat.bornomala.a2Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:33:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:33:19-45
+activity#world.mishkat.bornomala.a3Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:34:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:34:19-45
+activity#world.mishkat.bornomala.a4Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:35:19-45
+activity#world.mishkat.bornomala.a5Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:36:19-45
+activity#world.mishkat.bornomala.a6Activity
+ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml:37:19-45
+uses-sdk
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e2f37202d5595c76ed14d03d22bc720a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e2f37202d5595c76ed14d03d22bc720a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ed832f9dcdab851f3ff569a66e507bc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ed832f9dcdab851f3ff569a66e507bc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.smarteist:autoimageslider:1.3.2] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\autoimageslider-1.3.2.aar\82b8c0ed273ef598dff6f95e965577b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.smarteist:autoimageslider:1.3.2] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\autoimageslider-1.3.2.aar\82b8c0ed273ef598dff6f95e965577b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\69b770ade525a88f10c9b31c6d3157d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\69b770ade525a88f10c9b31c6d3157d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\71c7c757ac2a597096500ee4fc3fcb0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\71c7c757ac2a597096500ee4fc3fcb0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7d278c23e7663f799b2b35ca0fab62fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7d278c23e7663f799b2b35ca0fab62fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f08a9e3dee74635932464763d4dcafdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f08a9e3dee74635932464763d4dcafdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0e00a670342be930057478a1e712befe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0e00a670342be930057478a1e712befe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\521446632c27773cf74f76ab0ae9d356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\521446632c27773cf74f76ab0ae9d356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8717ff0497734f3c30150621b17ee2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8717ff0497734f3c30150621b17ee2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dfee9430a8aea6a55803ba7c8649915d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dfee9430a8aea6a55803ba7c8649915d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\bf7b97a6ddb73b4d111fa5cfec5c4d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\bf7b97a6ddb73b4d111fa5cfec5c4d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\360674e0313f3838295a8808652c13cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\360674e0313f3838295a8808652c13cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\767c4c69a7b71bcae19efc854c5af541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\767c4c69a7b71bcae19efc854c5af541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1221af683839a610f162a7cff98b97d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1221af683839a610f162a7cff98b97d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\167563a08d438cc70f1dbc89f2288ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\167563a08d438cc70f1dbc89f2288ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7702082f601a5b275b7829817fb5f94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ce566c23eb58db54e04ea3a09eecb00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4ce566c23eb58db54e04ea3a09eecb00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ffdea14be7822fec489d124a16f3b225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ffdea14be7822fec489d124a16f3b225\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e73e09a477771f9c64f8e030d5f01237\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e73e09a477771f9c64f8e030d5f01237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8603f2bd1c2f8414ee8566089a23c1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8603f2bd1c2f8414ee8566089a23c1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\826d6f8cee93e1e161212e9104241d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\826d6f8cee93e1e161212e9104241d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\826e7c01e3ab45397996ac40ec7497dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\826e7c01e3ab45397996ac40ec7497dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d1b764f2bc7a2c8346facaf8729da07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7d1b764f2bc7a2c8346facaf8729da07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c2d3ce5007f2e98c89ef4efd914e42bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c2d3ce5007f2e98c89ef4efd914e42bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a055c81fc85a7ae25b126a9410b2c019\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a055c81fc85a7ae25b126a9410b2c019\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\80adcc448c3919ef4b04265b8450f59f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\80adcc448c3919ef4b04265b8450f59f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\14b2eeaa27de161a5b641fe96546a9f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ataul\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\14b2eeaa27de161a5b641fe96546a9f8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ataul\AndroidStudioProjects\Bornomala\app\src\main\AndroidManifest.xml

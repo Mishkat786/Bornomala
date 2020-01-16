@@ -1,0 +1,4 @@
+#Fri Oct 04 03:26:55 BDT 2019
+base.0=C\:\\Users\\user\\Downloads\\Bornomala\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
